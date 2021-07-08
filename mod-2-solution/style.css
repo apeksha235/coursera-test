@@ -1,0 +1,78 @@
+#heading {
+	border: 2px solid crimson;
+	font-size: 25px;
+	color:  darkorange;
+	text-align: center;
+	width:200px;
+    position: fixed;
+    left: 40%;
+}
+#table1{
+  border: 2px solid crimson;
+  font-size: 25px;
+  float: left;
+  width: 30%;
+  margin-top: 100px;
+  margin-right:40px;
+  background-color: gray;
+}
+#table2{
+  border: 2px solid crimson;
+  font-size: 25px;
+  float: left;
+  width: 30%;
+  margin-top: 100px;
+  margin-right:40px;
+  background-color: gray;
+}
+#table3{
+  border: 2px solid crimson;
+  font-size: 25px;
+  float: left;
+  width: 30%;
+  margin-top: 100px;
+  margin-right:40px;
+  background-color: gray;
+}
+
+#p1{
+	padding-top: 20px;
+	color: darkblue;
+}
+#table1 #first{
+   border: 2px solid crimson;
+  font-size: 25px;
+  width: 110px;
+  float:right;
+  text-align:  center;
+  padding: 2px;
+  top: 0;
+  border-top-color: white;
+  border-right-color: white;
+  background-color: lightpink;
+}
+#table2 #second{
+   border: 2px solid crimson;
+  font-size: 25px;
+  width: 110px;
+  float:right;
+  text-align:  center;
+  padding: 2px;
+  top: 0;
+  border-top-color: white;
+  border-right-color: white;
+  background-color: lightsalmon;
+}
+#table3 #third{
+   border: 2px solid crimson;
+  font-size: 25px;
+  width: 110px;
+  float:right;
+  text-align:  center;
+  padding: 2px;
+  top: 0;
+  border-top-color: white;
+  border-right-color: white;
+  background-color: turquoise;
+}
+
