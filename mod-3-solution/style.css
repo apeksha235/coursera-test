@@ -46,7 +46,6 @@
   color: black;
   font-size: 50px;
   font-family: sans-serif;
-  font-weight: bold;
 }
 
 li{
@@ -89,8 +88,4 @@ li{
   text-align: center;
   font-size: 20px;
   font-weight: bold;
-}
-
-#top{
-
 }
